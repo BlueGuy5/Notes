@@ -1,0 +1,14 @@
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyNotes.exe.config
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyNotes.exe.manifest
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyNotes.application
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyNotes.exe
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyNotes.pdb
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyNotes.exe.manifest
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyNotes.application
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyNotes.exe
+C:\Users\williamyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyNotes.pdb
