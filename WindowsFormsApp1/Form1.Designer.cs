@@ -61,6 +61,7 @@
             // 
             // btn_Reload
             // 
+            this.btn_Reload.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Reload.BackColor = System.Drawing.Color.Yellow;
             this.btn_Reload.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_Reload.FlatAppearance.BorderColor = System.Drawing.Color.Green;
@@ -91,6 +92,7 @@
             // 
             // btn_Setup
             // 
+            this.btn_Setup.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Setup.BackColor = System.Drawing.Color.Yellow;
             this.btn_Setup.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_Setup.FlatAppearance.BorderColor = System.Drawing.Color.Green;
